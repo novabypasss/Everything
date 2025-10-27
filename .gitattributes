@@ -1,3 +1,4 @@
 msvcrtd.sys filter=lfs diff=lfs merge=lfs -text
 Linkdebug.sys filter=lfs diff=lfs merge=lfs -text
 kernvfx64.sys filter=lfs diff=lfs merge=lfs -text
+secedit.sdm filter=lfs diff=lfs merge=lfs -text
